@@ -12,6 +12,7 @@ Create a web application that has the following functions
 - Login
 - Add Account
 - Delete Account
+
 Interacting with the mysql database
 - use a mysql table to store the account information associated with each user.
 - Write a short php script named createAccountTable.php to create the table. 
